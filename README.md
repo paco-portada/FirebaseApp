@@ -1,9 +1,8 @@
 # Agrega Firebase al proyecto de Android
 
-[Opción 1: Agrega Firebase mediante Firebase console][https://firebase.google.com/docs/android/setup?hl=es-419]
+    [Opción 1: Agrega Firebase mediante Firebase console][https://firebase.google.com/docs/android/setup?hl=es-419]
 
  
-
 # Guía de Implementación: App de Tareas con Firebase y Jetpack Compose
 
 Este documento resume los pasos realizados para configurar y desarrollar la aplicación de gestión de tareas.
