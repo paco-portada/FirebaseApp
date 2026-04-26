@@ -1,6 +1,6 @@
 # Agrega Firebase al proyecto de Android
 
-[Opción 1: Agrega Firebase mediante Firebase console](https://firebase.google.com/docs/android/setup?hl=es-419)
+[Opción 1: Agrega Firebase mediante Firebase console][https://firebase.google.com/docs/android/setup?hl=es-419]
 
  
 
